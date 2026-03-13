@@ -1,0 +1,9 @@
+Found 2498 result files in /well/nichols-nvs/users/peo100/factor-analysis/simulations_new/continuous/ 
+# A tibble: 5 × 6
+  method             struct_rec     K_correct      lambda_mse           mean_time     n
+  <chr>              <chr>          <chr>          <chr>                <chr>     <int>
+1 factanal K known   NA (NA)        NA (NA)        0.005426 (0.0000658) 0.00 mins   500
+2 our method         0.614 (0.0218) 0.758 (0.0192) 0.002262 (0.0003341) 1.86 mins   500
+3 our method long v0 0.976 (0.0069) 0.998 (0.0020) 0.000456 (0.0000999) 2.32 mins   500
+4 pca K known        NA (NA)        NA (NA)        0.036045 (0.0003928) 0.00 mins   500
+5 rockova 2016       0.127 (0.0149) 0.133 (0.0152) 0.022501 (0.0008230) 0.13 mins   498

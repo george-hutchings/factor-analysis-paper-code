@@ -1,0 +1,10 @@
+Found 3000 result files in /data/users/uu85g9/factor-analysis/simulations_new/mixed/ 
+# A tibble: 6 × 6
+  method                 struct_rec     K_correct      lambda_mse           mean_time     n
+  <chr>                  <chr>          <chr>          <chr>                <chr>     <int>
+1 complete cases         0.670 (0.0210) 0.980 (0.0063) 0.007629 (0.0008501) 0.79 mins   500
+2 complete cases long v0 0.692 (0.0207) 0.944 (0.0103) 0.007384 (0.0007578) 0.81 mins   500
+3 full data              0.718 (0.0201) 0.994 (0.0035) 0.004860 (0.0006802) 0.43 mins   500
+4 full data long v0      0.802 (0.0178) 0.988 (0.0049) 0.004154 (0.0006015) 0.55 mins   500
+5 missing data           0.728 (0.0199) 0.992 (0.0040) 0.004682 (0.0006551) 0.43 mins   500
+6 missing data long v0   0.836 (0.0166) 0.986 (0.0053) 0.002524 (0.0004091) 0.53 mins   500

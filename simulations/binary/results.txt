@@ -1,0 +1,8 @@
+Found 2000 result files in /well/nichols-nvs/users/peo100/factor-analysis/simulations_new/binary/ 
+# A tibble: 4 × 6
+  method             struct_rec     K_correct      lambda_mse           mean_time     n
+  <chr>              <chr>          <chr>          <chr>                <chr>     <int>
+1 li 2023 mirt       0.428 (0.0221) 0.542 (0.0223) 0.005791 (0.0003085) 1.29 mins   500
+2 nmf K known        NA (NA)        NA (NA)        0.035505 (0.0001073) 0.02 mins   500
+3 our method         0.658 (0.0212) 0.822 (0.0171) 0.004658 (0.0006003) 0.46 mins   500
+4 our method long v0 0.832 (0.0167) 0.852 (0.0159) 0.004999 (0.0005744) 0.46 mins   500

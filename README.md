@@ -1,12 +1,12 @@
-# Scalable Bayesian Factor Analysis for Multi-Modal MS Data
+# Scalable Bayesian Factor Analysis for Mixed Data Types in MS
 
-This repository accompanies *Scalable Bayesian Statistical Machine Learning For Multi-Modal Data With Applications to Multiple Sclerosis* (Hutchings et al., 2026). The code implements a scalable Bayesian factor analysis framework combining a semiparametric Gaussian copula, an Indian buffet process (IBP) prior on latent dimensionality, and a continuous spike-and-slab prior for sparse, interpretable loadings. Monte Carlo Expectation-Maximisation (MCEM) with a C++-accelerated E-step drives inference on large, mixed-modality biomedical datasets such as the NO.MS cohort.
+This repository accompanies *Scalable Bayesian Statistical Machine Learning For Mixed Data Types With Applications to Multiple Sclerosis* (Hutchings et al., 2026). The code implements a scalable Bayesian factor analysis framework combining a semiparametric Gaussian copula, an Indian buffet process (IBP) prior on latent dimensionality, and a continuous spike-and-slab prior for sparse, interpretable loadings. Monte Carlo Expectation-Maximisation (MCEM) with a C++-accelerated E-step drives inference on large, mixed data type biomedical datasets such as the NO.MS cohort.
 
 ## Citation
 
 If you use this code, please cite the manuscript:
 
-> Hutchings, G., Samartsidis, P., Gaetano, L., Fisher, E., Nichols, T. E., Holmes, C., Häring, D. A., & Ganjgahi, H. (2026). *Scalable Bayesian Statistical Machine Learning For Multi-Modal Data With Applications to Multiple Sclerosis*.
+> Hutchings, G., Samartsidis, P., Donnay, C., Gaetano, L., Fisher, E., Nichols, T. E., Holmes, C., Häring, D. A., & Ganjgahi, H. (2026). *Scalable Bayesian Statistical Machine Learning For Mixed Data Types With Applications to Multiple Sclerosis*.
 
 For questions, contact **habib.ganjgahi@bdi.ox.ac.uk**.
 

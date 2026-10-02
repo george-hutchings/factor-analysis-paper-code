@@ -1,0 +1,14 @@
+.nosync
+docs/
+*.err
+*.out
+*.nii.gz
+*.rds
+*.png
+*.pdf
+*.Rhistory
+*.csv
+*.txt
+CLAUDE.md
+GEMINI.md
+*.o
